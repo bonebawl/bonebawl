@@ -5,7 +5,6 @@ const button3 = document.getElementById("thewhy");
 button1.addEventListener("click", function() {
     const img = document.getElementById("thewhats");
     img.src = "img/deadge.png";
-
     img.style.width = "80%";
     img.style.height = "auto";
     img.style.padding = "5%";
